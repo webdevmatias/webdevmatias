@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Matias! 👋
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/themattiaz/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/matiaz)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-matias-345392234/)
 
 ![Matias GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheThesus&show_icons=true&theme=dracula)
 
