@@ -2,7 +2,7 @@
 
 - 📚 Sou entusiasta de Tecnologias Web;
 - 💻 Atualmente estou focado em me tornar um desemvolvedor Front-End;
-- 👨 Fun fact: Eu poderia ter sido Téc. em Redes, mas eu escolhi Téc. em administração. <br> Me arrependo? Sim e não, pois eu gostei da experiência. 
+- 👨 Fun fact: Eu poderia ter sido Téc. em Redes De Computadores, mas eu escolhi Téc. em administração. <br> Me arrependo? Sim e não, pois eu gostei da experiência. 
 
 <h2>Tecnologias que estudo:</h2>
 
