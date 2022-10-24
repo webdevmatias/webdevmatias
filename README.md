@@ -1,6 +1,6 @@
 <h1>Olá! Eu sou o Matias - The Arthemiz! 🐱</h1>
 
-- 🐈 Sou um Dev iniciante (4 meses de estudo);
+- 🐈 Sou um Dev iniciante (2 meses de estudo);
 - 📚 Sou entusiasta de Tecnologias Web;
 - 💻 Atualmente estou focado em me tornar um desemvolvedor Front-End;
 - 👨 Fun fact: Eu poderia ter sido Téc. em Redes De Computadores, mas eu escolhi ser Téc. em administração.
