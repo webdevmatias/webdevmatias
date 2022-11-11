@@ -1,9 +1,9 @@
 <h1>Olá! Eu sou o Matias - The Arthemiz! 🐱</h1>
 
-- 🐈 Sou um Dev iniciante (2 meses de estudo);
+- 🐈 Sou um Dev iniciante;
+- 📔 Faço Ciência da Computação na UFRPE;
 - 📚 Sou entusiasta de Tecnologias Web;
 - 💻 Atualmente estou focado em me tornar um desemvolvedor Front-End;
-- 👨 Fun fact: Eu poderia ter sido Téc. em Redes De Computadores, mas eu escolhi ser Téc. em administração.
 
 <h2>Tecnologias que estudo:</h2>
 <div style="display: inline-block">
