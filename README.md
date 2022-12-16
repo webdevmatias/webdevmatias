@@ -1,9 +1,9 @@
 <h1>Olá! Eu sou o Matias! 🐱</h1>
 
 - Sou um Dev iniciante;
-- 📔 Faço Ciência da Computação na UFRPE;
-- 📚 Sou entusiasta de Tecnologias Web;
-- 💻 Atualmente estou focado em me tornar um desemvolvedor Front-End;
+- Faço Ciência da Computação na UFRPE;
+- Sou entusiasta de Tecnologias Web;
+- Atualmente estou focado em me tornar um desemvolvedor Front-End;
 
 <h2>Tecnologias que estudo:</h2>
 <div style="display: inline-block">
