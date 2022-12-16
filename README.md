@@ -1,4 +1,4 @@
-<h1>Olá! Eu sou o Matias - The Arthemiz! 🐱</h1>
+<h1>Olá! Eu sou o Matias! 🐱</h1>
 
 - 🐈 Sou um Dev iniciante;
 - 📔 Faço Ciência da Computação na UFRPE;
