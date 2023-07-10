@@ -10,7 +10,7 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" src="https://icons8.com.br/icon/40670/programa%C3%A7%C3%A3o-c">
+  <img  align="center" height="30" width="40" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/>
   <img align="center" height="30" width="40" src="https://user-images.githubusercontent.com/99132374/197358846-1d23d656-71fc-48c5-8333-0c8ed5783e63.svg">
 </div>
 
