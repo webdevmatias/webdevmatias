@@ -11,7 +11,7 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img  align="center" height="35" width="35" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/>
-<!--   <img align="center" height="30" width="40" src="https://user-images.githubusercontent.com/99132374/197358846-1d23d656-71fc-48c5-8333-0c8ed5783e63.svg"> -->
+  <img align="center" height="40" width="40" src="https://github.com/lukasmattias/lukasmattias/assets/99132374/e98ee280-7caa-495c-9830-6ab4c0fbc525">
 </div>
 
 <h2>Contate-me:</h2>
