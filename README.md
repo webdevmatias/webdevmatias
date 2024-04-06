@@ -1,4 +1,4 @@
-<h1>Olá! Eu sou o 
+<h1>Olá! Eu sou o<br>
 Matias!🤖</h1>
 
   📙 <strong>Formação Acadêmica:</strong> Sou Lucas Matias,sou graduando em Bacharelado em Ciência da Computação pela UFPRE (4/9);
