@@ -1,6 +1,6 @@
 <h1>Olá! Eu sou o Matias! 🤖</h1>
 
-  📙 <strong>Formação Acadêmica:</strong> Sou Lucas Matias! estou cusando Bacharelado em Ciência da Computação na UFPRE (4/9);
+  📙 <strong>Formação Acadêmica:</strong> Sou Lucas Matias,sou graduando em Bacharelado em Ciência da Computação pela UFPRE (4/9);
   
   💻 <strong>Experiência em Desenvolvimento:</strong> Experiência no desenvolvimento de aplicações web usando CSS, HTML, JavaScript usando o framework Tailwind CSS.
 Também fiz porjetos, bem avaliados, em java para a universidade;
