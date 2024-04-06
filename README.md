@@ -7,7 +7,7 @@ Também fiz porjetos, bem avaliados, em java para a universidade;
   
   - Linguagens de Programação: Proficiente em Python, Java, C e JavaScript;
 
-  - Frameworks e Ferramentas: Aprendendo React! Conheço bootstrap,apesar que uso mais o Tailwind CSS.
+  - Frameworks e Ferramentas: Aprendendo React! Conheço bootstrap,apesar que uso mais o Tailwind CSS. E agora eu estou estudando banco de dados! :P
 
   - Versionamento: Experiência em versionamento com Git.
     
