@@ -2,17 +2,19 @@
 
 <p>📙 <strong>Formação Acadêmica:</strong> Sou graduando em Bacharelado em Ciência da Computação pela UFPRE (4/9).</p>
 
-<p>💻 <strong>Experiência em Desenvolvimento:</strong> Tenho vasta experiência no desenvolvimento de aplicações web modernas utilizando React e Tailwind CSS. No meu trabalho, foco em criar interfaces de usuário responsivas e interativas, garantindo uma excelente experiência para o usuário final. Minha expertise inclui:</p>
+<p>💻 <strong>Experiência em Desenvolvimento:</strong> Tenho experiência no desenvolvimento de aplicações web modernas utilizando React e Tailwind CSS. Meu foco em criar interfaces de usuário responsivas e interativas, garantindo uma excelente experiência para o usuário final. Minha expertise inclui:</p>
 
 <ul>
   <li>Desenvolvimento de componentes reutilizáveis e modulares com React.</li>
-  <li>Estilização eficiente e responsiva usando Tailwind CSS para garantir consistência visual e performance.</li>
+  <li>Estilização eficiente e responsiva usando Tailwind CSS, garantindo consistência visual e performance.</li>
   <li>Construção de APIs básicas utilizando Node.js.</li>
   <li>Construção de bancos de dados com SQL (MySQL).</li>
   <li>Implementação de boas práticas de versionamento de código utilizando Git.</li>
+  <li>Entusiasta de UI e UX design.</li>
   <li>Criação de designs intuitivos e atraentes em colaboração com designers usando ferramentas como Figma.</li>
   <li>Desenvolvimento contínuo de habilidades e aprendizado de novas tecnologias para permanecer atualizado com as tendências do mercado.</li>
 </ul>
+
 
 <p>🚀 <strong>Desenvolvimento Contínuo:</strong> Estou em constante evolução das minhas habilidades e sempre em busca de novos desafios.</p>
 
