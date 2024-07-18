@@ -1,42 +1,48 @@
-<h1>Olá! Eu sou o<br>
-Matias! 🤖</h1>
+<h1>Olá! Eu sou o<br> Matias! 🤖</h1>
 
-  📙 <strong>Formação Acadêmica:</strong> Sou Lucas Matias,sou graduando em Bacharelado em Ciência da Computação pela UFPRE (4/9);
-  
-  💻 <strong>Experiência em Desenvolvimento:</strong> Experiência no desenvolvimento de aplicações web usando CSS, HTML, JavaScript usando o framework Tailwind CSS.
-Também fiz porjetos, bem avaliados, em java para a universidade;
-  
-  - Linguagens de Programação: Proficiente em Python, Java, C e JavaScript.
+<p>📙 <strong>Formação Acadêmica:</strong> Sou graduando em Bacharelado em Ciência da Computação pela UFPRE (4/9).</p>
 
-  - Frameworks e Ferramentas: Aprendendo React! Conheço bootstrap,apesar que uso mais o Tailwind CSS. E agora eu estou estudando banco de dados! :P
+<p>💻 <strong>Experiência em Desenvolvimento:</strong> Tenho vasta experiência no desenvolvimento de aplicações web modernas utilizando React e Tailwind CSS. No meu trabalho, foco em criar interfaces de usuário responsivas e interativas, garantindo uma excelente experiência para o usuário final. Minha expertise inclui:</p>
 
-  - Versionamento: Experiência em versionamento com Git.
-    
-  - Design: Entusiasta na ferramenta de design Figma.
-  
-  🚀 <strong>Desenvolvimento Contínuo:</strong> Em constante evolução suas habilidades e busca por novos desafios.
+<ul>
+  <li>Desenvolvimento de componentes reutilizáveis e modulares com React.</li>
+  <li>Estilização eficiente e responsiva usando Tailwind CSS para garantir consistência visual e performance.</li>
+  <li>Construção de APIs básicas utilizando Node.js.</li>
+  <li>Construção de bancos de dados com SQL (MySQL).</li>
+  <li>Implementação de boas práticas de versionamento de código utilizando Git.</li>
+  <li>Criação de designs intuitivos e atraentes em colaboração com designers usando ferramentas como Figma.</li>
+  <li>Desenvolvimento contínuo de habilidades e aprendizado de novas tecnologias para permanecer atualizado com as tendências do mercado.</li>
+</ul>
 
+<p>🚀 <strong>Desenvolvimento Contínuo:</strong> Estou em constante evolução das minhas habilidades e sempre em busca de novos desafios.</p>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=webdevmatias&show_icons=true&theme=compact&hide=html,css">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdevmatias&layout=compact&hide=html,css">
+</div>
 
 <h2>Tecnologias que estudo:</h2>
-<div style="display: inline-block;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img align="center" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" height="40" width="40" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/>
-  <img align="center" height="35" width="35"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-  <img align="center" height="40" width="4"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-</div>
-<br>
-<div style="display: inline-block">
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />   
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />        
+  <img align="center" height="40" width="40" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming">
+  <img align="center" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg">
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+<!--   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> -->
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg">
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 </div>
 
 <h2>Contate-me:</h2>
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/themattiaz/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-matias-345392234/)
-
+<p>
+  <a href="https://www.instagram.com/themattiaz/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/lucas-matias-345392234/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
