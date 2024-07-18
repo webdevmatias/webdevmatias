@@ -5,13 +5,13 @@
 <p>💻 <strong>Experiência em Desenvolvimento:</strong> Tenho experiência no desenvolvimento de aplicações web modernas utilizando React e Tailwind CSS. Meu foco em criar interfaces de usuário responsivas e interativas, garantindo uma excelente experiência para o usuário final. Minha expertise inclui:</p>
 
 <ul>
-  <li>Desenvolvimento de componentes reutilizáveis e modulares com React.</li>
-  <li>Estilização eficiente e responsiva usando Tailwind CSS, garantindo consistência visual e performance.</li>
-  <li>Construção de APIs básicas utilizando Node.js.</li>
-  <li>Construção de bancos de dados com SQL (MySQL).</li>
-  <li>Implementação de boas práticas de versionamento de código utilizando Git.</li>
-  <li>Entusiasta de UI e UX design.</li>
-  <li>Criação de designs intuitivos e atraentes em colaboração com designers usando ferramentas como Figma.</li>
+  <li>Desenvolvimento de componentes reutilizáveis e modulares com <Strong>React</Strong>.</li>
+  <li>Estilização eficiente e responsiva usando <Strong>Tailwind CSS</Strong>, garantindo consistência visual e performance.</li>
+  <li>Construção de APIs básicas utilizando <Strong>Node.js.</Strong></li>
+  <li>Construção de bancos de dados com <Strong>SQL (MySQL).</Strong></li>
+  <li>Implementação de boas práticas de versionamento de código utilizando <Strong>Git.</Strong></li>
+  <li>Entusiasta de <Strong>UI</Strong> e <Strong>UX</Strong> design.</li>
+  <li>Criação de designs intuitivos e atraentes em colaboração com designers usando ferramentas como <Strong>Figma</Strong>.</li>
   <li>Desenvolvimento contínuo de habilidades e aprendizado de novas tecnologias para permanecer atualizado com as tendências do mercado.</li>
 </ul>
 
