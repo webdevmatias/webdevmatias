@@ -1,29 +1,28 @@
-<h1>Olá! Eu sou o<br> Matias! 🤖</h1>
+<h1>Hello! I am <br> Matias! 🤖</h1>
 
-<p>📙 <strong>Formação Acadêmica:</strong> Sou graduando em Bacharelado em Ciência da Computação pela UFPRE (4/9).</p>
+<p>📙 <strong>Academic Background:</strong> I am a Computer Science undergraduate student at UFRPE (4/9).</p>
 
-<p>💻 <strong>Experiência em Desenvolvimento:</strong> Tenho experiência no desenvolvimento de aplicações web modernas utilizando React e Tailwind CSS. Meu foco em criar interfaces de usuário responsivas e interativas, garantindo uma excelente experiência para o usuário final. Minha expertise inclui:</p>
+<p>💻 <strong>Development Experience:</strong> I have experience in developing modern web applications using React and Tailwind CSS. My focus is on creating responsive and interactive user interfaces, ensuring an excellent experience for the end user. My expertise includes:</p>
 
 <ul>
-  <li>Desenvolvimento de componentes reutilizáveis e modulares com <Strong>React</Strong>.</li>
-  <li>Estilização eficiente e responsiva usando <Strong>Tailwind CSS</Strong>, garantindo consistência visual e performance.</li>
-  <li>Construção de APIs básicas utilizando <Strong>Node.js.</Strong></li>
-  <li>Construção de bancos de dados com <Strong>SQL (MySQL).</Strong></li>
-  <li>Implementação de boas práticas de versionamento de código utilizando <Strong>Git.</Strong></li>
-  <li>Entusiasta de <Strong>UI</Strong> e <Strong>UX</Strong> design.</li>
-  <li>Criação de designs intuitivos e atraentes em colaboração com designers usando ferramentas como <Strong>Figma</Strong>.</li>
-  <li>Desenvolvimento contínuo de habilidades e aprendizado de novas tecnologias para permanecer atualizado com as tendências do mercado.</li>
+  <li>Developing reusable and modular components with <Strong>React</Strong>.</li>
+  <li>Efficient and responsive styling using <Strong>Tailwind CSS</Strong>, ensuring visual consistency and performance.</li>
+  <li>Building APIs using <Strong>Node.js.</Strong></li>
+  <li>Building databases with <Strong>SQL (MySQL).</Strong></li>
+  <li>Implementing best practices for version control using <Strong>Git.</Strong></li>
+  <li>UI and <Strong>UX</Strong> design enthusiast.</li>
+  <li>Creating intuitive and attractive designs in collaboration with designers using tools like <Strong>Figma</Strong>.</li>
+  <li>Continuously developing skills and learning new technologies to stay updated with market trends.</li>
 </ul>
 
-
-<p>🚀 <strong>Desenvolvimento Contínuo:</strong> Estou em constante evolução das minhas habilidades e sempre em busca de novos desafios.</p>
+<p>🚀 <strong>Continuous Development:</strong> I am constantly evolving my skills and always looking for new challenges.</p>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=webdevmatias&show_icons=true&theme=compact&hide=html,css">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdevmatias&layout=compact">
 </div>
 
-<h2>Tecnologias que estudo:</h2>
+<h2>Technologies I study:</h2>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img align="center" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -38,7 +37,7 @@
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 </div>
 
-<h2>Contate-me:</h2>
+<h2>Contact me:</h2>
 <p>
   <a href="https://www.instagram.com/themattiaz/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
