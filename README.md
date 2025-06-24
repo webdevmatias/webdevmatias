@@ -1,6 +1,6 @@
 <h1>Hello! I am <br> Matias! 🤖</h1>
 
-<p>📙 <strong>Academic Background:</strong> I am a Computer Science undergraduate student at UFRPE (5/9).</p>
+<p>📙 <strong>Academic Background:</strong> I am a Computer Science undergraduate student at UFRPE (6/9).</p>
 
 <p>💻 <strong>Development Experience:</strong> As a full-stack developer, I focus on building scalable, high-performance web applications with a strong foundation in the MERN stack (MongoDB, Express, React, Node.js).</p>
 
