@@ -39,13 +39,6 @@ I'm also learning **React Native** to create modern, performant mobile apps usin
 
 ---
 
-## 📊 GitHub Stats
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdevmatias&layout=compact">
-</div>
-
----
-
 ## 🔗 Contact
 <a href="https://www.instagram.com/themattiaz/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
