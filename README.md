@@ -1,43 +1,49 @@
 <h1>Hello! I'm Matias 🤖</h1>
 
-📘 Academic Background: Computer Science student at UFRPE (7th semester).  
-💻 Focus: Full-stack development using React, Node.js and TypeScript.  
+📘 Computer Science student at UFRPE (7th semester)  
+💻 Full-stack development with React, TypeScript and Node.js  
 📱 Currently studying: React Native (Expo)  
 🌐 Portfolio: https://www.mattias.com.br/
 
----
-
 ## 👨‍💻 About Me
-I build functional and scalable applications, focusing on clean code, component-driven development and solid backend structures. I work daily with React, Node.js, TypeScript and SQL databases, delivering efficient interfaces and APIs.
+Full-stack developer focused on scalable applications, clean architecture and component-based UI.  
+Daily work with React, TypeScript, Node.js and SQL databases.
 
-I'm currently expanding my backend expertise with **NestJS**, improving architecture patterns, database modeling, authentication flows and containerized environments using Docker.  
+Currently improving backend skills with **NestJS**, **C#/.NET**, Docker and AWS.
 
-I'm also learning **React Native** to create modern, performant mobile apps using Expo.
+## 🎨 Tech Stack
 
----
-
-## 🛠️ Tech Stack
+### 🔵 Front-end
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <img src="https://skillicons.dev/icons?i=react" height="55" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="55" />
   <img src="https://skillicons.dev/icons?i=js" height="55" />
-  <img src="https://skillicons.dev/icons?i=css" height="55" />
+  <img src="https://skillicons.dev/icons?i=ts" height="55" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="55" />
+  <img src="https://skillicons.dev/icons?i=reactnative" height="55" />
+</div>
+
+### 🟢 Back-end
+<div style="display: flex; flex-wrap: wrap; gap: 12px;">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="55" />
+  <img src="https://skillicons.dev/icons?i=express" height="55" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="55" />
+  <img src="https://skillicons.dev/icons?i=cs" height="55" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="55" />
+  <img src="https://skillicons.dev/icons?i=postgresql" height="55" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="55" />
+  <img src="https://skillicons.dev/icons?i=sequelize" height="55" />
+</div>
+
+### 🛠️ Tools & DevOps
+<div style="display: flex; flex-wrap: wrap; gap: 12px;">
+  <img src="https://skillicons.dev/icons?i=docker" height="55" />
+  <img src="https://skillicons.dev/icons?i=aws" height="55" />
   <img src="https://skillicons.dev/icons?i=git" height="55" />
   <img src="https://skillicons.dev/icons?i=github" height="55" />
   <img src="https://skillicons.dev/icons?i=postman" height="55" />
   <img src="https://skillicons.dev/icons?i=figma" height="55" />
-  <img src="https://skillicons.dev/icons?i=vite" height="55" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="55" />
-  <img src="https://skillicons.dev/icons?i=express" height="55" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="55" />
-  <img src="https://skillicons.dev/icons?i=ts" height="55" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="55" />
-  <img src="https://skillicons.dev/icons?i=postgresql" height="55" />
-  <img src="https://skillicons.dev/icons?i=sequelize" height="55" />
-  <img src="https://skillicons.dev/icons?i=docker" height="55" />
 </div>
-
----
 
 ## 🔗 Contact
 <a href="https://www.instagram.com/themattiaz/" target="_blank">
