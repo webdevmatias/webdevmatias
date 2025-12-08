@@ -1,14 +1,11 @@
 <h1>Hello! I'm Matias 🤖</h1>
 
 📘 Computer Science student at UFRPE (7th semester)  
-💻 Full-stack development with React, TypeScript and Node.js  
-📱 Currently studying: React Native (Expo)  
+💻 Full-stack development with React, TypeScript and Node.js   
 🌐 Portfolio: https://www.mattias.com.br/
 
 ## 👨‍💻 About Me
 Full-stack developer focused on scalable applications, clean architecture and component-based UI.  
-Daily work with React, TypeScript, Node.js and SQL databases.
-
 Currently improving backend skills with **NestJS**, **C#/.NET**, Docker and AWS.
 
 ## 🎨 Tech Stack
@@ -33,16 +30,8 @@ Currently improving backend skills with **NestJS**, **C#/.NET**, Docker and AWS.
   <img src="https://skillicons.dev/icons?i=postgresql" height="55" />
   <img src="https://skillicons.dev/icons?i=mysql" height="55" />
   <img src="https://skillicons.dev/icons?i=sequelize" height="55" />
-</div>
-
-### 🛠️ Tools & DevOps
-<div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <img src="https://skillicons.dev/icons?i=docker" height="55" />
   <img src="https://skillicons.dev/icons?i=aws" height="55" />
-  <img src="https://skillicons.dev/icons?i=git" height="55" />
-  <img src="https://skillicons.dev/icons?i=github" height="55" />
-  <img src="https://skillicons.dev/icons?i=postman" height="55" />
-  <img src="https://skillicons.dev/icons?i=figma" height="55" />
 </div>
 
 ## 🔗 Contact
