@@ -1,7 +1,7 @@
 <h1>Hello! I'm Matias 🤖</h1>
 
 📘 Computer Science student at UFRPE (7th semester)  
-💻 Full-stack development with React, TypeScript and Node.js   
+💻 Full-stack   
 🌐 Portfolio: https://www.mattias.com.br/
 
 ## 👨‍💻 About Me
