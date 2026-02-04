@@ -25,8 +25,6 @@ Currently improving backend skills with **NestJS**, **C#/.NET**, Docker and AWS.
   <img src="https://skillicons.dev/icons?i=nodejs" height="55" />
   <img src="https://skillicons.dev/icons?i=express" height="55" />
   <img src="https://skillicons.dev/icons?i=nestjs" height="55" />
-  <img src="https://skillicons.dev/icons?i=cs" height="55" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="55" />
   <img src="https://skillicons.dev/icons?i=postgresql" height="55" />
   <img src="https://skillicons.dev/icons?i=mysql" height="55" />
   <img src="https://skillicons.dev/icons?i=sequelize" height="55" />
