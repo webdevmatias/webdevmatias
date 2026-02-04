@@ -1,12 +1,8 @@
 <h1>Hello! I'm Matias 🤖</h1>
 
-📘 Computer Science student at UFRPE (7th semester)  
+📘 Computer Science student at UFRPE (8th semester)  
 💻 Full-stack   
 🌐 Portfolio: https://www.mattias.com.br/
-
-## 👨‍💻 About Me
-Full-stack developer focused on scalable applications, clean architecture and component-based UI.  
-Currently improving backend skills with **NestJS**, **C#/.NET**, Docker and AWS.
 
 ## 🎨 Tech Stack
 
