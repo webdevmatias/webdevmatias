@@ -4,9 +4,9 @@
 💻 Full-stack   
 🌐 Portfolio: https://www.mattias.com.br/
 
-## 🎨 Tech Stack
+## Tech Stack
 
-### 🔵 Front-end
+### - Front-end
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <img src="https://skillicons.dev/icons?i=react" height="55" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="55" />
@@ -16,7 +16,7 @@
   <img src="https://skillicons.dev/icons?i=reactnative" height="55" />
 </div>
 
-### 🟢 Back-end
+### - Back-end
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <img src="https://skillicons.dev/icons?i=nodejs" height="55" />
   <img src="https://skillicons.dev/icons?i=express" height="55" />
