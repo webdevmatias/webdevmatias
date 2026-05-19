@@ -26,7 +26,6 @@
   <img src="https://skillicons.dev/icons?i=sequelize" height="55" />
   <img src="https://skillicons.dev/icons?i=docker" height="55" />
   <img src="https://skillicons.dev/icons?i=prisma" height="55" />
-  <img src="https://skillicons.dev/icons?i=aws" height="55" />
 </div>
 
 ## 🔗 Contact
