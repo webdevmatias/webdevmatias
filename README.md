@@ -8,6 +8,7 @@
 
 ### - Front-end
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
+  <img src="https://skillicons.dev/icons?i=angular" height="55" />
   <img src="https://skillicons.dev/icons?i=react" height="55" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="55" />
   <img src="https://skillicons.dev/icons?i=js" height="55" />
